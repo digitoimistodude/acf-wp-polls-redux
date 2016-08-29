@@ -1,0 +1,16 @@
+{
+  "name": "digitoimistodude/acf-wp-polls-redux",
+  "type": "wordpress-plugin",
+  "description": "Advanced Custom Fields: WP-Polls Poll Field",
+  "homepage": "https://github.com/digitoimistodude/acf-wp-polls-redux",
+  "keywords": ["wordpress", "plugin", "woocommerce"],
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Roni Laukkarinen",
+      "email": "roni@dude.fi",
+      "homepage": "https://www.dude.fi"
+    }
+  ]
+}
